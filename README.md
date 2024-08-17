@@ -1,6 +1,6 @@
 <!--타이틀-->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23AA99&center=true&vCenter=true&width=435&lines=GAMZA's+GITHUB;WELCOME!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23AA99&center=true&vCenter=true&width=435&lines=GAMZA's+GITHUB;WELCOME!" alt="Typing SVG" /></a>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23AA99&center=true&vCenter=true&width=435&lines=GAMZA's+GITHUB;WELCOME!)](https://git.io/typing-svg)
