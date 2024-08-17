@@ -1,8 +1,9 @@
 <!--타이틀-->
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23aa99&width=435&lines=GAMZA's+GITHUB;WELCOME!)](https://git.io/typing-svg)
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23AA99&center=true&vCenter=true&width=435&lines=GAMZA's+GITHUB;WELCOME!" alt="Typing SVG" /></a>
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23AA99&center=true&vCenter=true&width=435&lines=GAMZA's+GITHUB;WELCOME!)](https://git.io/typing-svg)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -88,9 +89,8 @@
 
 ---
 
-<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=S2gamzaS2&color=23aa99)
-</div>
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda)
-</div>
+
