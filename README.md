@@ -3,6 +3,9 @@
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
 
+![](https://komarev.com/ghpvc/?username=S2gamzaS2&color=green)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
