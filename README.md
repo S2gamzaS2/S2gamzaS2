@@ -1,11 +1,5 @@
 <!--타이틀-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=4DF7AB&width=435&lines=GAMZA's+GITHUB;WELCOME!)](https://git.io/typing-svg)
-
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
-
-![](https://komarev.com/ghpvc/?username=S2gamzaS2&color=green)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23aa99&width=435&lines=GAMZA's+GITHUB;WELCOME!)](https://git.io/typing-svg)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -86,5 +80,8 @@
   </a>
 </div>
 
-node updater.js ${{ github.repository_owner }} <dracula>
+<br>
 
+![](https://komarev.com/ghpvc/?username=S2gamzaS2&color=23aa99)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda)
