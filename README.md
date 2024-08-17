@@ -1,6 +1,8 @@
 <!--타이틀-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=4DF7AB&width=435&lines=GAMZA's+GITHUB;WELCOME!)](https://git.io/typing-svg)
 
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -11,6 +13,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br>
@@ -79,4 +82,6 @@
       src="https://img.shields.io/badge/ipnsohe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+node updater.js ${{ github.repository_owner }} <dracula>
 
