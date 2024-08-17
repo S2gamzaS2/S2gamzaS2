@@ -87,7 +87,7 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda&width=300&height=150)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda&width=200&height=100)
 
 ![](https://komarev.com/ghpvc/?username=S2gamzaS2&color=23aa99)
 
