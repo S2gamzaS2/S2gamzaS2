@@ -1,83 +1,61 @@
 <!--타이틀-->
-<div align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=23AA99&center=true&vCenter=true&width=435&lines=GAMZA's+GITHUB;WELCOME!" alt="Typing SVG" /></a>
-<br>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sigmar&weight=900&size=23&pause=1000&color=168522&background=58E8FF00&width=435&lines=%EC%84%B8%EA%B3%84+%EC%B5%9C%EA%B3%A0%EC%9D%98+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%98%88%EC%A0%95" alt="Typing SVG" /></a>
+  <br>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+<h4>Back-End</h4>
+<div>
   <!--언어 -->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=20px/>&nbsp
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height=20px/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=20px/>
+  <br>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height=20px/> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" height=20px/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" height=20px/>
+  <br>
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height=20px/>
+  <br>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"height=20px/>
-</div>
-
-<br>
-<!-- 프레임워크&라이브러리 -->
-<div align="center">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height=20px/>&nbsp
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" height=20px/>&nbsp
+  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"height=20px/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"height=20px/>
   <br>
-<!-- ML/DL   -->
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height=20px/>&nbsp
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"height=20px/>
 </div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height=20px/>
-</div>
-<br>
 
-<br>
+<h4>DevOps</h4>
+<div>
+  <img src="https://img.shields.io/badge/aws%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"height=20px/>
+  <br>
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"height=20px/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-061D2F?style=for-the-badge&logo=docker&logoColor=white"height=20px/>
+  <br>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"height=20px/>
+</div> 
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<h4>Front-End</h4>
+<div>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" height=20px/>
+  <br>
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=20px/>
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=20px/>
+  <br>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height=20px/>
+</div> 
+
+<h4>Tools</h4>
+<div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" height=20px/>&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" height=20px/>
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" height=20px/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height=20px/>&nbsp
-</div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height=20px/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height=20px/>&nbsp
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height=20px/>&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" height=20px/>&nbsp
-  </a>
+<h3>📫 Contact 📫</h3>
+<div>
   <a href="mailto:ipnsohe@gmail.com">
-    <img src="https://img.shields.io/badge/ipnsohe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"height=20px/>&nbsp
+    <img src="https://img.shields.io/badge/ipnsohe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20px/>&nbsp
   </a>
 </div>
 
@@ -86,8 +64,6 @@
 
 ---
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda&width=150&height=80)
 
 ![](https://komarev.com/ghpvc/?username=S2gamzaS2&color=23aa99)
-
