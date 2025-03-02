@@ -49,9 +49,9 @@
 ---
 <h3>🚀 Project</h3>
 
-- **2024** <a href="https://github.com/PleaseGiveMeAssets">바쁜 현대인을 위한 일일 리포트 생성 서비스 - 너굴</a>
-- **2024** <a href="https://github.com/FinMentor">금융 징검다리 서비스 - FinMentor</a>
-- **2025** <a href="https://github.com/4S1JIN/s1jin-delivery">주문 관리 플랫폼 백엔드 프로젝트 - 4S1JIN</a>
+- **2024** <a href="https://github.com/PleaseGiveMeAssets">바쁜 현대인을 위한 일일 리포트 생성 서비스 - 너굴</a> (BE/FE)
+- **2024** <a href="https://github.com/FinMentor">금융 징검다리 서비스 - FinMentor</a> (BE)
+- **2025** <a href="https://github.com/4S1JIN/s1jin-delivery">주문 관리 플랫폼 백엔드 프로젝트 - 4S1JIN</a> (BE)
 
 ---
 
