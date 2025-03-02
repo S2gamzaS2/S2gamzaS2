@@ -3,6 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sigmar&weight=900&size=23&pause=1000&color=168522&background=58E8FF00&width=435&lines=%EC%84%B8%EA%B3%84+%EC%B5%9C%EA%B3%A0%EC%9D%98+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%98%88%EC%A0%95" alt="Typing SVG" /></a>
   <br>
 
+<h3>💻 Tech Stack</h3>
 <h4>Back-End</h4>
 <div>
   <!--언어 -->
@@ -45,8 +46,14 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" height=25px/>
 </div>
 
+---
+<h3>🚀 Project</h3>
 
-<br>
+- **2024** <a href="https://github.com/PleaseGiveMeAssets">바쁜 현대인을 위한 일일 리포트 생성 서비스 - 너굴</a>
+- **2024** <a href="https://github.com/FinMentor">금융 징검다리 서비스 - FinMentor</a>
+- **2025** <a href="https://github.com/4S1JIN/s1jin-delivery">주문 관리 플랫폼 백엔드 프로젝트 - 4S1JIN</a>
+
+---
 
 <h3>📫 Contact 📫</h3>
 <div>
@@ -54,11 +61,8 @@
     <img src="https://img.shields.io/badge/ipnsohe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25px/>&nbsp
   </a>
 </div>
-
-<br>
 <br>
 
----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2gamzaS2&show_icons=true&theme=panda&width=150&height=80)
 
