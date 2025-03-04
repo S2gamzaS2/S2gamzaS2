@@ -1,4 +1,4 @@
-<!--타이틀-->
+
 <div>
   <a href="https://github.com/S2gamzaS2"><img src="https://readme-typing-svg.demolab.com?font=Sigmar&weight=900&size=23&pause=1000&color=168522&background=58E8FF00&width=435&lines=%EC%84%B8%EA%B3%84+%EC%B5%9C%EA%B3%A0%EC%9D%98+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%98%88%EC%A0%95" alt="Typing SVG" /></a>
   <br>
